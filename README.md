@@ -15,6 +15,8 @@ This Flutter Weather App is designed to provide users with a sleek and intuitive
 
 
 ## Screenshots
+<img width="832" alt="Screenshot 2024-06-09 at 2 24 44 AM" src="https://github.com/aashimawadhwa/weather-app-flutter/assets/73706697/6c8064ec-8898-4d88-8e9f-82e511b374b2">
+<img width="832" alt="Screenshot 2024-06-09 at 2 25 23 AM" src="https://github.com/aashimawadhwa/weather-app-flutter/assets/73706697/c2fed7c7-051b-4ecf-bded-eacebb4fd052">
 
 ## Contributing!
 Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
